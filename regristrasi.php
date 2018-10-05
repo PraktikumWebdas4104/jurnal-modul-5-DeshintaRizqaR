@@ -24,7 +24,7 @@
 <?php 
 
 if (isset($_POST['Daftar'])) {
-	include 'prosesregistrasi.php';
+	include 'prosesregis.php';
 	
 }
 
